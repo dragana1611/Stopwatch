@@ -6,7 +6,7 @@
 
 body{
     background-color: #b68902;
-    background: url('img/wallpaper2.jpg') no-repeat center center;
+    background: url('img/wallpaper2.jpg') no-repeat center top;
     background-size: cover;
     background-blend-mode: multiply;
 }
