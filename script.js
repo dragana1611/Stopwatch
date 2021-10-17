@@ -1,3 +1,4 @@
+'use strict'
 let sekunde = 00;
 let stotinke = 00;
 let promeniSekunde = document.getElementById('sekundeSW');
